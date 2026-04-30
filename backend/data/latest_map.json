@@ -1,0 +1,1 @@
+{"status": "success", "tile_fetch_url": "https://earthengine.googleapis.com/v1/projects/spry-ether-477622-u0/maps/bcebae8ed7241263c107414af99bbaa7-231e71a73c79f1cdc465872587f61589/tiles/{z}/{x}/{y}", "palette": ["#006400", "#1f78b4", "#ff7f00", "#6a3d9a", "#e31a1c", "#ffd92f", "#17becf"], "message": "Model retrained and map updated successfully."}

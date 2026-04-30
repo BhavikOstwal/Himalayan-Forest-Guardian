@@ -1,0 +1,39 @@
+backend/node_modules
+frontend/node_modules
+frontend/.env
+backend/app/ml/models
+backend/app/ml/data/*
+backend/app/ml/metadata/*
+test_inference.py
+!backend/app/ml/metadata/.gitkeep
+backend/.env
+.DS_Store
+deploy.sh
+
+# pycache and other python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# model weights and checkpoints
+backend/app/ml/model_weights/IllegalLogging/outputs_model.pt
+# frontend/*
+backend/app/ml/model_weights/VGGish/*
+!backend/app/ml/model_weights/IllegalLogging/.gitkeep
+!backend/app/ml/model_weights/VGGish/.gitkeep
+README_old.md
+backend/data/audio_stream/audio.wav
+backend/app/ml/model_weights/IllegalLogging/*
+!backend/app/ml/model_weights/IllegalLogging/.gitkeep
+# backend/app/ml_copy_for_rpi/model_weights/IllegalLogging/*
+# !backend/app/ml_copy_for_rpi/model_weights/IllegalLogging/.gitkeep
+# backend/app/ml_copy_for_rpi/model_weights/VGGish/*
+# !backend/app/ml_copy_for_rpi/model_weights/IllegalLogging/.gitkeep
+# !backend/app/ml_copy_for_rpi/model_weights/VGGish/.gitkeep
+backend/app/ml_copy_for_rpi
+Report/
+Report.zip
+Project.md
+istp_tree_map (1).ipynb
+some_context.md
