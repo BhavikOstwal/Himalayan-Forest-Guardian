@@ -37,3 +37,7 @@ Report.zip
 Project.md
 istp_tree_map (1).ipynb
 some_context.md
+
+LoRa_setup/src/LloRa_test.cpp
+LoRa_setup/src/main_dummy.cpp
+LoRa_setup/.vscode/
