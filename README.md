@@ -81,7 +81,7 @@ Quick notes:
 - Edit source files in `src/` as needed for your hardware and LoRa configuration.
 - The project is prepared for an ESP32-S3 devkit target (see the `.pio` build folders). Remove `build` artifacts before committing.
 
-Project directory structure
+<!-- Project directory structure
 ---------------------------
 
 Top-level layout (abridged):
@@ -141,7 +141,7 @@ LoRa_setup/
 Report/
 ```
 
-If you'd like a more detailed tree (including all nested files) or want to add `.env` templates as `.env.example` files, let me know.
+If you'd like a more detailed tree (including all nested files) or want to add `.env` templates as `.env.example` files, let me know. -->
 
 Author and License
 ------------------
